@@ -4,7 +4,7 @@ yt-dlp
 git+https://github.com/facebookresearch/demucs#egg=demucs
 scipy
 librosa
-git+https://github.com/m-bain/whisperx.git
+git+https://github.com/m-bain/whisperx.git@v2.0.0#egg=whisperx
 python-dotenv
 openai
 audiostretchy
